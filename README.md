@@ -1,0 +1,2 @@
+# Railease-AI-Powered-Railway-Complaint-Lost-and-Found-System
+RailEase is an AI-powered web-based system that simplifies railway passenger complaints and lost-and-found management. Passengers can report issues, submit lost-item details with photos, and track complaint statuses. The admin dashboard enables railway staff to manage complaints, update statuses, and verify possible matches efficiently.
